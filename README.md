@@ -26,4 +26,4 @@ GET /me
 }
 
 Live URL
-http://98.91.243.98
+(https://boluwajidare.izzytechub.com/)
